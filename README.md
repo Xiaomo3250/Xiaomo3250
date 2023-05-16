@@ -1,7 +1,8 @@
 - 👋 嗨你好，我叫小莫
-- 👀 我正在四处寻找好玩的项目，发掘并学习大家的技术以及技巧
-- 🌱 是一个总被算法难倒的笨蛋
-- 💞️ 或者说……因为太爱玩了？
+- 👀 我正在四处寻找好玩的项目，学习更多的知识
+- 🌱 Learned:C,C++,CS,Java,SQL
+- 💞️ Learing:Java,CS,JavaScript,Lua,Python,C++
+- 🚩 Waitlist:Rust
 - 📫 联系小莫请 Xiaomo3250@qq.com / Xiaomo3250@163.com
 
 <!---
